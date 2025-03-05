@@ -291,28 +291,6 @@ This curriculum takes you from complete beginner to advanced mobile developer ov
 - User testing and feedback
 - Submission-ready preparations
 
----
-
-## RESOURCES
-
-### iOS Development
-- [Apple Developer Documentation](https://developer.apple.com/documentation/)
-- [Swift.org](https://swift.org/)
-- [Ray Wenderlich iOS Tutorials](https://www.raywenderlich.com/ios)
-- [Hacking with Swift](https://www.hackingwithswift.com/)
-
-### Android Development
-- [Android Developers Documentation](https://developer.android.com/docs)
-- [Kotlin Documentation](https://kotlinlang.org/docs/home.html)
-- [Android Developers Codelabs](https://developer.android.com/codelabs)
-- [Ray Wenderlich Android Tutorials](https://www.raywenderlich.com/android)
-
-### Cross-Platform
-- [Flutter Documentation](https://flutter.dev/docs)
-- [Flutter Codelabs](https://flutter.dev/docs/codelabs)
-- [React Native Documentation](https://reactnative.dev/docs/getting-started)
-
----
 
 ## TIPS FOR SUCCESS
 1. **Code daily** - Even if it's just for 30 minutes
