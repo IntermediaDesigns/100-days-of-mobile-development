@@ -1,4 +1,10 @@
-# Here are some highlights of the projects you'll build:
+# 100 Days of Mobile App Development: iOS & Android
+
+This curriculum takes you from complete beginner to advanced mobile developer over 100 days, with a capstone project at the end. Each day includes a specific project idea to build and reinforce the concepts you're learning.
+
+This structured approach will take you from beginner to advanced, culminating in a capstone project.
+
+## Here are some highlights of the projects you'll build:
 
 ## Beginner Phase Projects:
 
@@ -37,3 +43,5 @@
 ## Capstone
 
 The capstone project options have also been expanded with more detailed features for each option, including productivity suites, e-commerce applications, social platforms, location-based services, and health & wellness apps.
+
+### See details of each phase on the readme.md in the 100 Days folder.
